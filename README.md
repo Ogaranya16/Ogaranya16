@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
+<h3> I'am a Software Engineer(Backend)</h3>
+
+<ul> ⚡ Fun fact about Tochukwu: 
+<li>😄 Pronouns: She/Her</li>
+<li>👩‍🎓 Student at: AltSchool Africa, School of Software Engineering.
+<li>🌱 I’m currently learning Nodejs,TypeScript, JavaScript,  DataBases with MongoDB and MySQL</li>
+<li>💼 Job interests: Backend Engineering(intern and junior roles)</li>
+<li> 📫 You can reach me: tanwagu@gmail.com</li>
+</ul>
